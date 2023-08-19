@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello 👋🏾
+
+My name is Alaa.    
+
+I'm passionate about everything Data and Machine Learning. My areas of interest are:
+- ⛭ **Social Networks Analysis:** Bias/racism detection; dissiminiation of extremist content; spread of fake news
+- ❤️ **Sentiment Analysis:** How people feel about certain events, products or topics
+- 🕐 **Time Series Analysis:** Changes over time
+- 📺 **Creating beautiful visualizations**
+
+In my free time, I like to create videos on Tiktok about Python and how to use it for Data Science and Machine Learning. 
 
 <!--
 **alaa-mohamedahmed/alaa-mohamedahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
