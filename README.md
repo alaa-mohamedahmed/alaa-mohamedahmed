@@ -8,7 +8,7 @@ I'm passionate about everything Data and Machine Learning. My areas of interest 
 - 🕐 **Time Series Analysis:** Changes over time
 - 📺 **Creating beautiful visualizations**
 
-In my free time, I create videos on Tiktok about Python and how to use it for Data Science and Machine Learning. 
+In my free time, I create videos on [Tiktok](https://www.tiktok.com/@datawithalaa) about Python and how to use it for Data Science and Machine Learning. 
 
 <!--
 **alaa-mohamedahmed/alaa-mohamedahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
