@@ -1,10 +1,10 @@
 ## Hello 👋🏾
 
-Welcome to my Data Science and Machine Learning corner. 
-A big believer of the power of data to drive positive changes in society. Here's a glimpse into what I bring to the table:
+Welcome to my Data Science and Machine Learning corner. <br>
+I'm a big believer of the power of data to drive positive changes in society. Here's a glimpse into what I bring to the table:
 
-- 🌐 **Driving Social Impact:** My primary focus lies in harnessing data to foster meaningful change.
-- ⛭ **Social Network Analysis:** Using Machine Learning to unveil biases and detect racism in digital spaces; and to understand how extremist content is dissiminated.
+- **🌐 Driving Social Impact:** My primary focus lies in harnessing data to foster meaningful change.
+-  **⛭ Social Network Analysis:** Using Machine Learning to unveil biases and detect racism in digital spaces; and to understand how extremist content is dissiminated.
 - **❤️ Sentiment Analysis:** I'm intrigued by the nuanced tapestry of human emotions and opinions. Exploring sentiment helps me understand how people perceive events, products, and important topics that impact society like immigration, crime, elections, etc.,
 - **🕐 Time Series Analysis:** Capturing the ebbs and flows of data over time enables me to unravel trends, patterns, and anomalies that might otherwise remain concealed.
 - **📊 Creating Beautiful Visualizations**
