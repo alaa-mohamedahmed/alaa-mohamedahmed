@@ -7,7 +7,7 @@ A big believer of the power of data to drive positive changes in society. Here's
 - ⛭ **Social Network Analysis:** Using Machine Learning to unveil biases and detect racism in digital spaces; and to understand how extremist content is dissiminated.
 - **❤️ Sentiment Analysis:** I'm intrigued by the nuanced tapestry of human emotions and opinions. Exploring sentiment helps me understand how people perceive events, products, and important topics that impact society like immigration, crime, elections, etc.,
 - **🕐 Time Series Analysis:** Capturing the ebbs and flows of data over time enables me to unravel trends, patterns, and anomalies that might otherwise remain concealed.
-- **📊 Creating Beautiful Visualizations:**
+- **📊 Creating Beautiful Visualizations**
 - **🎥 Spreading Knowledge:** Beyond coding, I'm an advocate of knowledge sharing. In my free time, I create videos on [Tiktok](https://www.tiktok.com/@datawithalaa) about Python and how to use it for Data Science and Machine Learning.
 
 Join my journey! 
