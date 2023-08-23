@@ -8,7 +8,8 @@ I'm a big believer of the power of data to drive positive changes in society. He
 - **❤️ Sentiment Analysis:** I'm intrigued by the nuanced tapestry of human emotions and opinions. Exploring sentiment helps me understand how people perceive events, products, and important topics that impact society like immigration, crime, elections, etc.,
 - **🕐 Time Series Analysis:** Capturing the ebbs and flows of data over time enables me to unravel trends, patterns, and anomalies that might otherwise remain concealed.
 - **📊 Creating Beautiful Visualizations**
-- **🎥 Spreading Knowledge:** Beyond coding, I'm an advocate of knowledge sharing. In my free time, I create videos on [Tiktok](https://www.tiktok.com/@datawithalaa) about Python and how to use it for Data Science and Machine Learning.
+
+Beyond coding, I'm an advocate of knowledge sharing. In my free time, I create videos on [Tiktok](https://www.tiktok.com/@datawithalaa) about Python and how to use it for Data Science and Machine Learning.
 
 Join my journey! 
 
